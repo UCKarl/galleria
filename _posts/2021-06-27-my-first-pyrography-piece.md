@@ -22,10 +22,12 @@ You'll notice that the lamp is dotted. This is because it's against the grain. S
 
 The Weller kit doesn't actually have a tip that would cut through the wood while burning. It, however, has an exacto knife tip that you can use to *first* cut and then burn in on the cut.
 
-![](images/posts/thumbs/first-pyro-02.jpg)
+![](/galleria/images/posts/first-pyro-02.jpg)
 
-![](images/posts/thumbs/first-pyro-03.jpg)
+![](/galleria/images/posts/first-pyro-03.jpg)
 
 I decided to add a bit more detail, like the train station. In the background, Amanda thought that the building was a hill.
 
-![](images/posts/thumbs/first-pyro-04.jpg)
+![](/galleria/images/posts/first-pyro-04.jpg)
+
+![](/galleria/images/posts/first-pyro-05.jpg
