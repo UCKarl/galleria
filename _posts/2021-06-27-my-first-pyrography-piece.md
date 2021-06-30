@@ -15,7 +15,7 @@ This is my first attempt at wood burning, using the Webber pyrography kit.
 
 The first piece of advice before you take any piece of wood is make sure to sand the surface to eliminate the grain. If you were like myself and didn't happen to do that, some wood burning equipment actually cuts into the wood.
 
-![](images/posts/thumbs/first-pyro-01.jpg)
+![](/galleria/images/first-pyro-01.jpg)
 
 You'll notice that the lamp is dotted. This is because it's against the grain. Some parts of the wood are much thicker than other parts.
 
