@@ -30,4 +30,4 @@ I decided to add a bit more detail, like the train station. In the background, A
 
 ![](/galleria/images/posts/first-pyro-04.jpg)
 
-![](/galleria/images/posts/first-pyro-05.jpg
+![](/galleria/images/posts/first-pyro-05.jpg)
