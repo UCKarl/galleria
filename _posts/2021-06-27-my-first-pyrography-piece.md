@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "My First Pyrography Scene (London)"
+title: "A Walk in London"
 
 keywords: pyrography, sketch, instagram, street scene, london
-description: Shamsee Lone Idiot and Cub - page 013
+description:  A first pyrography scene into a 7.5in x 12in wood piece.
 
 thumbnail: images/posts/thumbs/first-pyro-cover.jpg
 
