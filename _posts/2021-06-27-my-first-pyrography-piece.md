@@ -5,7 +5,7 @@ title: "My First Pyrography Scene (London)"
 keywords: pyrography, sketch, instagram, street scene, london
 description: Shamsee Lone Idiot and Cub - page 013
 
-thumbnail: images/posts/thumbs/first-pyro-02.jpg
+thumbnail: images/posts/thumbs/first-pyro-cover.jpg
 
 ---
 
