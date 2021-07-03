@@ -15,12 +15,12 @@ This is my first attempt at wood burning, using the Weller pyrography kit that I
 
 I alternated sketching and burning, but my initial pencil sketch mostly had the idea of the drawing, where the most important part of it is the vanishing point. Interestingly enough, where this vanishing point is positioned is influential of how busy the street scene was. This may be obvious to some, but if I'd placed it an inch higher, it really removes the viewer away from the action. I think it's just a matter of where the perspective originates, and because I wanted it to seem busy, I kept it low enough to seem like the viewer is standing from a normal height on the edge of traffic but still safely on the sidewalk. 
 
-![](/galleria/images/first-pyro-01.jpg)
+![](/galleria/images/posts/first-pyro-01.jpg)
 
 
 I also chose the couple to be the closest set of humanity. I think it's always nice to have the ones that the viewer is most immediately ready to interact with in the sketch either ready to engage or in their own little world. In this particular case, the man appears to notice the viewer, but the woman has her attention caught with the restaurants. My intention was for this to come through, even without the ability to see their eyes, which I think would really take away from the impressionist feel that I was going for.
 
-![](/galleria/images/first-pyro-02.jpg)
+![](/galleria/images/posts/first-pyro-02.jpg)
 
 Notice that the lamp pole is severely dotted. After some research, I realized that this is because much the grain of the wood is horizontal and all vertical lines will have this effect. Some parts of the wood are much thicker than other parts. In fact, you can see the grain manifested in the original rings of the wood, which originated each year the pinewood grew older. Anything that goes against this grain will appear dotted and uneven.
 
@@ -28,11 +28,11 @@ It goes without saying that the first piece of advice I wish that I knew about w
 
 If you were like myself and didn't happen to do that, there are some wood burning equipment actually cuts into the wood. The highest quality tips out there come from Razortip. I got that piece of advice from a fellow Instagrammer, and these tips may actually work well without wood treatment, though I'd still recommend sanding it down. The Weller kit doesn't actually have a tip that would cut through the wood while burning. It, however, has an exacto knife tip that you can use to *first* cut and then burn in on the cut.
 
-![](/galleria/images/first-pyro-03.jpg)
+![](/galleria/images/posts/first-pyro-03.jpg)
 
 After some research, one of the ways to get around the dotted issue was to use a blade and cut a line that you desire and trace over that groove with the tight tip. This was somewhat effective, though I found that oftentimes the sharpest Weller tip would be able to make it into the sharp groove that I'd cut. I did try to use the high heat Weller tip itself to cut through the wood. Some parts of the wood were soft enough to do so, but this would often cause smudges. As it turns out, the places where the grooves were most distracting were also the hardest parts of the wood, and I would need to dally there in order to make any burn marks, making it more difficult to draw.
 
-![](/galleria/images/first-pyro-04.jpg)
+![](/galleria/images/posts/first-pyro-04.jpg)
 
 At this point in time, I alternated between burning and sketching. Using some feedback from Amanda, you'll notice in the background some kind of terrain or building, Amanda thought that it was a hill. Simple enough, add some detail there: columns on the building to make it a bit Romanesque.
 
