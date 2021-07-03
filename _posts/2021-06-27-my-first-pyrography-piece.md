@@ -28,9 +28,7 @@ It goes without saying that the first piece of advice I wish that I knew about w
 
 If you were like myself and didn't happen to do that, there are some wood burning equipment actually cuts into the wood. The highest quality tips out there come from Razortip. I got that piece of advice from a fellow Instagrammer, and these tips may actually work well without wood treatment, though I'd still recommend sanding it down. The Weller kit doesn't actually have a tip that would cut through the wood while burning. It, however, has an exacto knife tip that you can use to *first* cut and then burn in on the cut.
 
-
 ![](/galleria/images/first-pyro-03.jpg)
-
 
 After some research, one of the ways to get around the dotted issue was to use a blade and cut a line that you desire and trace over that groove with the tight tip. This was somewhat effective, though I found that oftentimes the sharpest Weller tip would be able to make it into the sharp groove that I'd cut. I did try to use the high heat Weller tip itself to cut through the wood. Some parts of the wood were soft enough to do so, but this would often cause smudges. As it turns out, the places where the grooves were most distracting were also the hardest parts of the wood, and I would need to dally there in order to make any burn marks, making it more difficult to draw.
 
