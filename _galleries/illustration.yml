@@ -179,4 +179,10 @@ arts:
   artist: "Karl Ni"
   description: "Waiting to board at the airport. Acrylic paint markers on canvas."
 
+- image: "/galleria/images/galleries/illustration/ChaincyRanjit.jpg"
+  order: "30"
+  title: "All Part of the Team: Chaincy and Ranjit"
+  artist: "Karl Ni"
+  description: "Chaincy and Ranjit holding Super Clark. Thanks for the support at the American Liver Association's Liver Life Walk"
+
 ---
