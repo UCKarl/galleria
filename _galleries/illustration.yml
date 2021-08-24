@@ -173,4 +173,10 @@ arts:
   artist: "Karl Ni"
   description: "An Eichler house sketched in Palo Alto"
 
+- image: "/galleria/images/galleries/illustration/AtTheAirport.jpg"
+  order: "29"
+  title: "Waiting to Board"
+  artist: "Karl Ni"
+  description: "Waiting to board at the airport. Acrylic paint markers on canvas."
+
 ---
