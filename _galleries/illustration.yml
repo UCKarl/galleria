@@ -239,5 +239,22 @@ arts:
   artist: "Karl Ni"
   description: "A more finished canvas painting. Acrylic paint markers. Ryan and family walking on the Charles Bridge in the Czech Republic."
 
+- image: "/galleria/images/galleries/illustration/SwingingShoes.jpg"
+  order: "40"
+  title: "Swinging Shoes Off"
+  artist: "Karl Ni"
+  description: "All kids want to swing, and the higher the better! Acryling paint markers on canvas."
+
+- image: "/galleria/images/galleries/illustration/GrandPiano.jpg"
+  order: "41"
+  title: "Playing in the Lights"
+  artist: "Karl Ni"
+  description: "Grand piano under the lights."
+
+- image: "/galleria/images/galleries/illustration/CharlesBridge.jpg"
+  order: "42"
+  title: "Center for Performing Arts"
+  artist: "Karl Ni"
+  description: "Center for Performing Arts in Mountain View, California."
 
 ---
