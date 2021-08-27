@@ -209,12 +209,6 @@ arts:
   artist: "Karl Ni"
   description: "All the old school cartoons for Ila, Cory's daughter =)."
 
-- image: "/galleria/images/galleries/illustration/AWalkRain.jpg"
-  order: "36"
-  title: "A walk in the rain"
-  artist: "Karl Ni"
-  description: "A walk in the rain next to a lamp, and a lot of white space. Acrylic paint markers on canvas."
- 
 - image: "/galleria/images/galleries/illustration/BigBen.jpg"
   order: "37"
   title: "A walk by Big Ben"
