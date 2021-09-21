@@ -251,4 +251,28 @@ arts:
   artist: "Karl Ni"
   description: "Center for Performing Arts in Mountain View, California."
 
+- image: "/galleria/images/galleries/illustration/trolley.jpg"
+  order: "42"
+  title: "San Francisco Trolley"
+  artist: "Karl Ni"
+  description: "First acrylic painting, experimenting with brushes."
+
+- image: "/galleria/images/galleries/illustration/forjames.jpg"
+  order: "43"
+  title: "Mini-train"
+  artist: "Karl Ni"
+  description: "Train rotating back to go out again."
+
+- image: "/galleria/images/galleries/illustration/pns.jpg"
+  order: "44"
+  title: "The Mud Pit"
+  artist: "Karl Ni"
+  description: "Palo Alto Nursery School with Acrylic Painting."
+
+- image: "/galleria/images/galleries/illustration/toms-painting.jpg"
+  order: "45"
+  title: "Tom and the Metzgers"
+  artist: "Karl Ni"
+  description: "The Oceanic Bridge on the Rumson River from the Salt Creek Grill."
+
 ---
